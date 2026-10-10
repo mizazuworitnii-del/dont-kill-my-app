@@ -1,4 +1,4 @@
----
+adb shell /data/app/moe.shizuku.privileged.api-NJq2ArrkB6GUhfDVXpknjA==/lib/arm/libshizuku.so---
 manufacturer: samsung
 
 ---
